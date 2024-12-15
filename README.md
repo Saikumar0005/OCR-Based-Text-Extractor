@@ -25,15 +25,17 @@ Execution:
 
 Sample outputs:
 Input1:-![Sample1](https://github.com/user-attachments/assets/34034393-f3cf-4907-b04d-7db5d6f93e33)
-Output:a b c d e f 9 h i j k l m
+Output:
+       a b c d e f 9 h i j k l m 
        n o P q r $ 8 t U V w X Y z
 
 Input2:-![Sample2](https://github.com/user-attachments/assets/1d5b1ba0-1e2d-471d-bb7f-8aedcbcc0f9c)
-Output:- It was the best of
-        times; it was the worst
-        of times, it was the age
-        of wisdom; it was the
-        age of foolishness_
+Output:- 
+       It was the best of 
+       times; it was the worst 
+       of times, it was the age 
+       of wisdom; it was the 
+       age of foolishness_
 
 Acknowledgments:
 EasyOCR
