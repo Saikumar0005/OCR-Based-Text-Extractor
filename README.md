@@ -17,25 +17,18 @@ Run the script ocr_text_extraction.ipynb in Google Colab or locally:
 4. Optionally, save the recognized text as a Word document.
 
 Execution:
-1.For the executing the code first we want to install some packages(if you running this code Google Colab)
-->easyocr(pip install easyocr)
-->python-docx(pip install python-docx #it is used for downloading the recognized text in the format of word document)
+1.For the executing the code first we want to install some packages(if you running this code Google Colab)                                                                                            ->easyocr(pip install easyocr)                                                                                                                                                                        ->python-docx(pip install python-docx #it is used for downloading the recognized text in the format of word document)
 2.Then select the file/image for the execution.
 3.If you to download the recognied text then type yes or otherwise no.
 
 Sample outputs:
 Input1:-![Sample1](https://github.com/user-attachments/assets/34034393-f3cf-4907-b04d-7db5d6f93e33)
 Output:
-       a b c d e f 9 h i j k l m 
-       n o P q r $ 8 t U V w X Y z
+       a b c d e f g h i j k l m                                                                                                                                                                             n o P q r $ 8 t U V w X Y z
 
 Input2:-![Sample2](https://github.com/user-attachments/assets/1d5b1ba0-1e2d-471d-bb7f-8aedcbcc0f9c)
 Output:- 
-       It was the best of 
-       times; it was the worst 
-       of times, it was the age 
-       of wisdom; it was the 
-       age of foolishness_
+       It was the best of                                                                                                                                                                                    times; it was the worst                                                                                                                                                                               of times, it was the age                                                                                                                                                                              of wisdom; it was the                                                                                                                                                                                 age of foolishness_
 
 Acknowledgments:
 EasyOCR
